@@ -100,7 +100,7 @@ let shortheight = 1.2;
 //which is my main Pokémon:
 
 pokemonRepository.add({
-    name: "Pikachu", height: 1.04, types: ["Electric, Mouse"], imgFile: "img/pikachu.svg"}
+    name: "Pikachu", height: 1.04, types: ["Electric, Mouse."], imgFile: "img/pikachu.svg"}
 );
 
 // Using one last time getALL to get the Pokémon list:
