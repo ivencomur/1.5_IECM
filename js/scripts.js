@@ -70,10 +70,10 @@
 // Keeping the list as is:
 let pokemonRepository = (function() {
     let pokemonList = [
-        {name:"Articuno", height: 1.7, types: ["ice","flying."], imgFile: "img/articuno.svg"},
-        {name:"Charizard", height: 1.7, types: ["fire"," flying."], imgFile: "img/charizard.svg"},
-        {name:"Butterfree", height: 1.1, types: ["bug"," flying."], imgFile: "img/butterfree.svg"},
-        {name:"Pidgeot", height: 1.5, types: ["flying"," normal."], imgFile: "img/pidgeot.svg"}
+        {name:"Articuno", height: 1.7, types: ["Ice","Flying."], imgFile: "img/articuno.svg"},
+        {name:"Charizard", height: 1.7, types: ["Fire"," Flying."], imgFile: "img/charizard.svg"},
+        {name:"Butterfree", height: 1.1, types: ["Bug"," Flying."], imgFile: "img/butterfree.svg"},
+        {name:"Pidgeot", height: 1.5, types: ["Flying"," Normal."], imgFile: "img/pidgeot.svg"}
     ];
 // Adding the eliciting function:
     function getAll() {
